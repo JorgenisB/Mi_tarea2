@@ -1,3 +1,4 @@
-Esta es la tarea #2 de Jorgenis Belén, esta es la captura de pantalla:
+Esta app web es una calculadora realizada en js, html y css pero lo que tiene de especial es que guarda un historial de los calculos realizados.
+
 
 ![Mi captura](Captura.jpg)
